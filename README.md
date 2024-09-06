@@ -1,1 +1,3 @@
 # Efficient-VaR-Estimation-A-Comparative-Study-of-RNNs-and-GARCH-Models-in-the-Tadawul-Exchange
+
+Efficient VaR Estimation: A Comparative Study of RNNs and GARCH Models in the Tadawul Exchange is a project aimed at comparing the effectiveness of Recurrent Neural Networks (RNNs) and Generalized Autoregressive Conditional Heteroskedasticity (GARCH) models for estimating Value at Risk (VaR) in the Tadawul Exchange, Saudi Arabia’s stock market. The project includes data collection, model development, and performance evaluation to identify which approach better captures the market's volatility and risk patterns. The study emphasizes efficient risk management in financial markets by analyzing model accuracy and computational efficiency.
